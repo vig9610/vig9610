@@ -31,46 +31,59 @@ My professional journey reflects a dedication to service excellence, complemente
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 -->
+
 ## Tools
 
-### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <!--<img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-    -->
-</div>
+## SOC & Networking Tools
 
-### Endpoint
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+  <a href="https://nmap.org/">
+    <img src="https://img.shields.io/badge/-Nmap-FF5733?&style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap"/>
+  </a>
+  <a href="https://www.wireshark.org/">
+    <img src="https://img.shields.io/badge/-Wireshark-0078D7?&style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
+  </a>
+  <a href="https://www.elastic.co/kibana">
+    <img src="https://img.shields.io/badge/-Kibana-005571?&style=for-the-badge&logo=elastic&logoColor=white" alt="Kibana"/>
+  </a>
   <!--
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+  <a href="https://suricata-ids.org/">
+    <img src="https://img.shields.io/badge/-Suricata-1E90FF?&style=for-the-badge&logoColor=white" alt="Suricata"/>
+  </a>
+  -->
+  <a href="https://www.snort.org/">
+    <img src="https://img.shields.io/badge/-Snort-FF4500?&style=for-the-badge&logoColor=white" alt="Snort"/>
+  </a>
+  <!--
+  <a href="https://zeek.org/">
+    <img src="https://img.shields.io/badge/-Zeek-8A2BE2?&style=for-the-badge&logoColor=white" alt="Zeek"/>
+  </a>
+  <a href="https://www.tenable.com/products/nessus">
+    <img src="https://img.shields.io/badge/-Nessus-DC143C?&style=for-the-badge&logoColor=white" alt="Nessus"/>
+  </a>
+  -->
+  <a href="https://www.openvas.org/">
+    <img src="https://img.shields.io/badge/-OpenVAS-228B22?&style=for-the-badge&logoColor=white" alt="OpenVAS"/>
+  </a>
+  <a href="https://nmap.org/ncat/">
+    <img src="https://img.shields.io/badge/-Netcat-696969?&style=for-the-badge&logoColor=white" alt="Netcat"/>
+  </a>
+  <!--
+  <a href="https://scapy.net/">
+    <img src="https://img.shields.io/badge/-Scapy-FF8C00?&style=for-the-badge&logoColor=white" alt="Scapy"/>
+  </a>
   -->
 </div>
 
-### SIEM
-<div>
-  <!--
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-  -->
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-    <img src="https://img.shields.io/badge/Kibana-Elastic-orange" />
-</div>
 
 ## Certifications
-<div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" /> 
-  (In Progress)
-<!--<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />-
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<!--<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
-</div>
+  <div>
+  <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" /> 
+    (In Progress)
+  </div>
 
 ## Projects
-- Detection Lab
+- Exploiting Samba on Metasploitable 2
 - SOC Automation Project
 <!--
 **vig9610/vig9610** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
