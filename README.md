@@ -1,6 +1,6 @@
 
 # Hello, I'm Valery Gilman!
-<a href="[https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/valery-gilman-886a26b1/)" /></a>
+<a href="(https://www.linkedin.com/in/valery-gilman-886a26b1/)"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white]" /></a>
 
 Detail-oriented and motivated cybersecurity graduate with a strong interest in learning new skills. Possesses a solid foundation in network security, threat analysis, log management, and security protocols developed through academic projects and self-directed learning. Eager to contribute to organizational security initiatives and support the protection of digital systems and data.
 
