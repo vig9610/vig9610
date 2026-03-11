@@ -77,8 +77,10 @@ My professional journey reflects a dedication to service excellence, complemente
 
 ## Certifications
   <div>
-  <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" /> 
-    (In Progress)
+    <a href="https://www.comptia.org/en-us/certifications/security/">
+    <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" /> 
+      (In Progress)
+    </a> 
   </div>
 
 ## Projects
